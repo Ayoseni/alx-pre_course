@@ -1,2 +1,2 @@
-My first readme
-Coding with ALX is exciting
+Coding is exciting
+
